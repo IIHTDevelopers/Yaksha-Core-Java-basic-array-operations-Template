@@ -1,0 +1,97 @@
+Assessment Tasks for "Arrays and Array Operations" Topic
+Task 1: Print Elements of an Array
+Problem: Write a program that initializes an array of integers and prints each element of the array.
+
+Example:
+
+Input:
+
+java
+Copy code
+None
+Output:
+
+java
+Copy code
+1
+2
+3
+4
+5
+Explanation: The program iterates over the array and prints each element one by one.
+
+Task 2: Find the Length of an Array
+Problem: Write a program that initializes an array and prints its length.
+
+Example:
+
+Input:
+
+java
+Copy code
+None
+Output:
+
+java
+Copy code
+Length of the array: 5
+Explanation: The program uses the .length attribute to find and print the length of the array.
+
+Task 3: Find the Maximum Value in an Array
+Problem: Write a program that finds the maximum value in an array of integers.
+
+Example:
+
+Input:
+
+java
+Copy code
+None
+Output:
+
+java
+Copy code
+Maximum Value: 9
+Explanation: The program iterates over the array and keeps track of the largest value.
+
+Task 4: Skip a Specific Value in an Array
+Problem: Write a program that loops through an array and skips printing a specific value (e.g., the value 7).
+
+Example:
+
+Input:
+
+java
+Copy code
+None
+Output:
+
+java
+Copy code
+1
+2
+3
+4
+5
+6
+8
+9
+10
+Explanation: The program skips printing the value 7 during the loop.
+
+Task 5: Sum of Elements in an Array
+Problem: Write a program that sums all the elements of an integer array and prints the result.
+
+Example:
+
+Input:
+
+java
+Copy code
+None
+Output:
+
+java
+Copy code
+Sum of the array elements: 30
+Explanation: The program calculates the sum by iterating through the array and adding each element to a running total.
